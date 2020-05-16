@@ -1,6 +1,6 @@
 # Resumo Bootcamp GoStack #10
 
-GoStack #10 foi um bootcamp que ocorreu de Fevereiro à Abril de 2020 (teve que ser extendido devido ao COVID-19).
+GoStack #10 foi um bootcamp que ocorreu de Fevereiro à Abril de 2020 (teve que ser estendido devido ao COVID-19).
 O Bootcamp ensinou desenvolvimento Web e Mobile com JavaScript utilizando as tecnologias Node, React e React-Native.
 
 Esses foram os projetos desenvolvidos durante o curso:
