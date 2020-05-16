@@ -27,3 +27,6 @@ https://github.com/emanuelhfarias/FastFeet
 Aulas Bônus  
 React Hooks: https://github.com/emanuelhfarias/react-hooks  
 Flex: https://github.com/emanuelhfarias/flexbox  
+
+Relacionados  
+Semana OmniStack #10: https://github.com/emanuelhfarias/semanaomnistack10  
