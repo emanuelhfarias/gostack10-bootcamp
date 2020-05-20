@@ -16,14 +16,14 @@ Esses foram os projetos desenvolvidos durante o curso:
 | desafio 3         | Continuação [FastFeet]                                                     | backend              | [desafio](https://github.com/Rocketseat/bootcamp-gostack-desafio-03/blob/d0c8f32222938cec6719637a1d21616531da9644/README.md) |   |
 | modulo 4          | Estudo sobre React. Aplicação simples para listar Tecnologias (TechList) | web                | [repo](https://github.com/emanuelhfarias/bootcamp-gostack-modulo-04) |   |
 | desafio 4        | Aplicação semelhante a interface do Facebook feito em React              | web                | [repo](https://github.com/emanuelhfarias/bootcamp-gostack-desafio-04) |   |
-| desafio 5        | [Github RepoList] Aplicação em React para consumir a API Oficial do Github                 | web                | [repo](https://github.com/emanuelhfarias/bootcamp-gostack-desafio-05) |   |
-| desafio 6        | [Github Starred] App em React Native para consumir a API Oficial do Github         | mobile             | [repo](https://github.com/emanuelhfarias/bootcamp-gostack-desafio-06) |   |
-| modulo 7         | [RocketShoes] e-Commerce em React para venda de Calçados.                | web                | [repo](https://github.com/emanuelhfarias/bootcamp-gostack-modulo-07) |   |
-| desafio 7        | [RocketShoes] e-Commerce Mobile para venda de Calçados.                  | mobile             | [repo](https://github.com/emanuelhfarias/RocketShoes) |   |
-| Projeto Assistido | [GoBarber] Aplicação para gestão de salões de beleza.                    | backend, web, mobile | [repo](https://github.com/emanuelhfarias/GoBarber) |   |
-| Projeto Final     | [FastFeet] Aplicação para gestão de uma transportadora fictícia.         | backend, web, mobile | [repo](https://github.com/emanuelhfarias/FastFeet) |   |
+| desafio 5        | **[Github RepoList]** Aplicação em React para consumir a API Oficial do Github                 | web                | [repo](https://github.com/emanuelhfarias/bootcamp-gostack-desafio-05) |   |
+| desafio 6        | **[Github Starred]** App em React Native para consumir a API Oficial do Github         | mobile             | [repo](https://github.com/emanuelhfarias/bootcamp-gostack-desafio-06) |   |
+| modulo 7         | **[RocketShoes]** e-Commerce em React para venda de Calçados.                | web                | [repo](https://github.com/emanuelhfarias/bootcamp-gostack-modulo-07) |   |
+| desafio 7        | **[RocketShoes]** e-Commerce Mobile para venda de Calçados.                  | mobile             | [repo](https://github.com/emanuelhfarias/RocketShoes) |   |
+| Projeto Assistido | **[GoBarber]** Aplicação para gestão de salões de beleza.                    | backend, web, mobile | [repo](https://github.com/emanuelhfarias/GoBarber) |   |
+| Projeto Final     | **[FastFeet]** Aplicação para gestão de uma transportadora fictícia.         | backend, web, mobile | [repo](https://github.com/emanuelhfarias/FastFeet) |   |
 | Aula Bônus        | Estudo básico sobre React Hooks                                          | web                      | [repo](https://github.com/emanuelhfarias/react-hooks) |   |
-| Aula Bônus        | [Twitter Clone] Estudo sobre Flexbox                                     | web                      | [repo](https://github.com/emanuelhfarias/flexbox) |   |  
+| Aula Bônus        | **[Twitter Clone]** Estudo sobre Flexbox                                     | web                      | [repo](https://github.com/emanuelhfarias/flexbox) |   |  
 
 Tabela feita com [TablesGenerator](https://www.tablesgenerator.com/markdown_tables)
 
