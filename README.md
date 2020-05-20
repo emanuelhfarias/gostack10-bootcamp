@@ -7,6 +7,7 @@ Esses foram os projetos desenvolvidos durante o curso:
 
 |                   | Descrição                                                                | Tipo               | Link |   |
 |-------------------|--------------------------------------------------------------------------|--------------------|------|---|
+| pré-gostack #10   | Semana OmniStack #10                                                     | backend, web, mobile | [repo](https://github.com/emanuelhfarias/semanaomnistack10) |   |
 | modulo 1          | Estudo sobre rotas, passagem de parâmetros e middlewares no Express      | backend            | [repo](https://github.com/emanuelhfarias/bootcamp-gostack-modulo-01) |   |
 | desafio 1         | CRUD de Projetos e Tasks feito em Node e Express (sem DB)                | backend            | [repo](https://github.com/emanuelhfarias/bootcamp-gostack-desafio-01) |   |
 | modulo 4          | Estudo sobre React. Aplicação simples para listar Tecnologias (TechList) | web                | [repo](https://github.com/emanuelhfarias/bootcamp-gostack-modulo-04) |   |
@@ -19,7 +20,6 @@ Esses foram os projetos desenvolvidos durante o curso:
 | Projeto Final     | [FastFeet] Aplicação para gestão de uma transportadora fictícia.         | backend, web, mobile | [repo](https://github.com/emanuelhfarias/FastFeet) |   |
 | Aula Bônus        | Estudo básico sobre React Hooks                                          | web                      | [repo](https://github.com/emanuelhfarias/react-hooks) |   |
 | Aula Bônus        | [Twitter Clone] Estudo sobre Flexbox                                     | web                      | [repo](https://github.com/emanuelhfarias/flexbox) |   |
-| pré-gostack #10   | Semana OmniStack #10                                                     | backend, web, mobile | [repo](https://github.com/emanuelhfarias/semanaomnistack10) |   |
 
 
 Tecnologias vistas durante o Bootcamp
